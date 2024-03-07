@@ -1887,9 +1887,6 @@ input#nav-toggle:checked ~ #nav-menu {
 .ml-2 {
   margin-left: 0.5rem;
 }
-.ml-4 {
-  margin-left: 1rem;
-}
 .ml-auto {
   margin-left: auto;
 }
@@ -1910,9 +1907,6 @@ input#nav-toggle:checked ~ #nav-menu {
 }
 .ms-1 {
   margin-inline-start: 0.25rem;
-}
-.mt-10 {
-  margin-top: 2.5rem;
 }
 .mt-4 {
   margin-top: 1rem;
@@ -1986,9 +1980,6 @@ input#nav-toggle:checked ~ #nav-menu {
 }
 .rounded-lg {
   border-radius: 0.5rem;
-}
-.border-b {
-  border-bottom-width: 1px;
 }
 .border-r {
   border-right-width: 1px;
@@ -2078,12 +2069,6 @@ input#nav-toggle:checked ~ #nav-menu {
 }
 .pb-0 {
   padding-bottom: 0px;
-}
-.pb-14 {
-  padding-bottom: 3.5rem;
-}
-.pb-16 {
-  padding-bottom: 4rem;
 }
 .pb-6 {
   padding-bottom: 1.5rem;
